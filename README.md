@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--# 💫 About Me:
 AI-powered web applications using Python, Django, and React — combining machine learning models with modern frontend interfaces.<br>Open-source Data Science or AI projects, especially NLP, computer vision, or data visualization tools.<br>Advanced ML model optimization and deploying AI apps to production (Docker, cloud platforms).<br>Deep Learning with PyTorch, REST API design with FastAPI, and building full-stack AI applications.<br>Python, Django, React, data analysis, or how to start with AI/ML as a student in Uzbekistan.<br>I'm a student from Uzbekistan building real-world AI projects while still in university — because waiting to graduate is overrated. 🚀 and my full name is Abusalomov Baxrom<br>
 
