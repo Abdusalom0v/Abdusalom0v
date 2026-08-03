@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Baxrom [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Iymon+bo'lsa,+;Imkon+topiladi!&color=8A2BE2&duration=3000)](https://git.io/typing-svg)
 
